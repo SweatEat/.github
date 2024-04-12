@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>SweatEat</h1>
+<p>SweatEat is a solution targeted towards restaurant for ease of communication between the customers and the kitchen.</p>
 
 <!--
 
